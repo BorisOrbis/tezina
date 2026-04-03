@@ -1,6 +1,6 @@
 # BT Tracker — Osobni zdravstveni dnevnik
 
-> **Live app:** [borisobris.github.io/tezina](https://borisobris.github.io/tezina/)
+> **Live app:** [borisobris.github.io/tezina](https://borisorbis.github.io/tezina/)
 
 Progresivna web aplikacija (PWA) za praćenje tjelesne težine, krvnog tlaka i tjelesnih mjera.  
 Radi potpuno offline — podaci se čuvaju isključivo lokalno u pregledniku (localStorage).
