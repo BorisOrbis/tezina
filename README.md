@@ -66,4 +66,4 @@ Nema servera, nema slanja podataka, nema analitike.
 
 ## Licenca
 
-MIT — slobodno koristi, modificiraj, dijeli.
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
